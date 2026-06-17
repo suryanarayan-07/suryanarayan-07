@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm <b>Surya Narayan Parida</b><br>🎓 Fourth-Year B.Tech CSE Student | 💻 Aspiring Full Stack Developer | 🌟 Turning ideas into responsive and interactive web applications.
+I'm <b>Surya Narayan Parida</b><br>🎓 A fourth-year B.Tech student in Computer Science and Engineering with a strong interest in Full Stack Development. I enjoy building responsive and user-friendly web applications while continuously learning new technologies and improving my skills..<br><br>
+I have completed a Web Design Internship, where I gained hands-on experience in designing and developing websites, enhancing both my technical and problem-solving abilities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surya_suraj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-narayan-parida) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssurya9948@gmail.com) 
