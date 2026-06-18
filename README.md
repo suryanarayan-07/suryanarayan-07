@@ -17,7 +17,7 @@ I have completed a Web Design Internship, where I gained hands-on experience in 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryanarayan-07&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=suryanarayan-07&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=suryanarayan-07&theme=dark).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanarayan-07&layout=compact&theme=dark)
 
